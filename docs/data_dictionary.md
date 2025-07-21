@@ -1,8 +1,9 @@
 # Data Dictionary: Seroepidemiology Dataset
 
 This document describes the variables used in the formatted dataset files:
-- `data/DireDawa_Seroepi24.csv`
-- `data/AddisAbaba_Seroepi24.csv`
+- [`data/DireDawa_SeroEpi24.csv`](data/DireDawa_SeroEpi24.csv)
+- [`data/AddisAbaba_Seroepi24.csv`](data/AddisAbaba_Seroepi24.csv)
+
 
 | Variable       | Description |
 |----------------|-------------|
