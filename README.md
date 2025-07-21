@@ -62,6 +62,6 @@ Fits Generalized Estimating Equation (GEE) models with natural splines to estima
 
 If you use this repository, please cite:
 
-> **Parker DM, et al.** High Seroprevalence of Antibodies to Dengue, Chikungunya, and Zika Viruses in Dire Dawa, Ethiopia: A Cross-Sectional Survey in 2024. *[Journal Name, Year]*
+> **Parker DM, et al.** High Seroprevalence of Antibodies to Dengue, Chikungunya, and Zika Viruses in Dire Dawa, Ethiopia: A Cross-Sectional Survey in 2024. Preprint DOI: 10.1101/2024.09.19.24313917
 
 
