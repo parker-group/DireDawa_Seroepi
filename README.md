@@ -51,7 +51,7 @@ Fits Generalized Estimating Equation (GEE) models with natural splines to estima
   [`data/DireDawa_SeroEpi24.csv`](data/DireDawa_SeroEpi24.csv) — Individual-level serological and demographic data for Dire Dawa, Ethiopia.
 
 - **Comparison dataset:**  
-  [`data/AddisAbaba_SeroEpi24.csv`](data/AddisAbaba_SeroEpi24.csv) — Similar dataset from Addis Ababa for comparative analysis.
+  [`data/AddisAbaba_Seroepi24.csv`](data/AddisAbaba_Seroepi24.csv) — Similar dataset from Addis Ababa for comparative analysis.
 
 - **Data dictionary:**  
   Variable definitions and metadata are provided in [`docs/data_dictionary.md`](docs/data_dictionary.md).
