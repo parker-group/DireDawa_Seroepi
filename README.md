@@ -6,7 +6,7 @@ This repository contains the full analytical workflow and data used in our cross
 
 ## Repository Structure
 
-```
+<pre>
 DireDawa_Seroepi/
 ├── data/
 │   ├── DireDawa_SeroEpi24.csv         # Primary dataset (Dire Dawa)
@@ -20,7 +20,7 @@ DireDawa_Seroepi/
 │   ├── GEE_AgeSpecificSero.r          # GEE with splines to model seropositivity by age
 │   └── CrossReactivityICC.r           # Mixed models, correlation matrix, and ICC clustering estimates
 └── README.md
-```
+</pre>
 
 ---
 
